@@ -22,3 +22,17 @@ import "tippy.js/dist/tippy.css";
 import Modal from "react-modal";
 
 ---
+
+#4 CountUp
+`yarn add react-countup`
+
+import CountUp,{useCountUp} from "react-countup";
+
+---
+
+#5 idle-timer
+`yarn add react-idle-timer`
+
+import IdleTimer from "react-idle-timer";
+
+---
